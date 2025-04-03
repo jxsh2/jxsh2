@@ -3,9 +3,9 @@
 <p align="center">🧑🏽‍🎓 4th Year Computer Science Student | 💻Web Developer | 📽️Video Editor | 🎮Gamer</p> <br>
 
 <ul>
-  <li>🔗 For my projects, visit my <a href="https://bosi-portfolio.vercel.app/" target="_blank">portfolio</a></li>
+  <li>🔗 To explore my projects, feel free to visit my <a href="https://bosi-portfolio.vercel.app/" target="_blank">portfolio</a></li>
   <br>
-  <li>📬 To contact me here is my <a href="mailto:joshidanbosi02@gmail.com">email</a></li>
+  <li>📬 I'm always open to new opportunities or collaborations. You can reach me at my <a href="mailto:joshidanbosi02@gmail.com">email</a></li>
   <br>
 </ul>
 
