@@ -39,9 +39,6 @@
 
 <!-- GitHub Stats Section -->
 <h2>📊 GitHub Stats:</h2>
-<div align="center">
-  <!-- Overall GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=jxsh2&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats"/>
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxsh2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxsh2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+
