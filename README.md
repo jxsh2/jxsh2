@@ -1,8 +1,16 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jxsh2.jxsh2" alt="visitors"/>
+
 <!-- Greeting Section -->
-<h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Idan</span></h1>
-<p align="center">🧑🏽‍🎓 4th Year Computer Science Student | 💻Web Developer | 📽️Video Editor | 🎮Gamer</p> <br>
+<h1 align="center"> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=3000&color=2ECC71&center=true&vCenter=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Idan+Josh+Bosi" alt="Typing SVG" />
+
+  <h3 align="center"> An aspiring full stack web developer from Philippines 🇵🇭</h3>
+
+<br>
 
 <ul>
+  <li>🧑🏽‍🎓 4th Year Computer Science Student | 💻Web Developer | 📽️Video Editor | 🎮Gamer</li>
+  <br>
   <li>🚀 I'm currently learning full stack development, as well as exploring machine learning and deep learning</li>
   <br>
   <li>🔗 To explore my projects, feel free to visit my <a href="https://bosi-portfolio.vercel.app/" target="_blank">portfolio</a></li>
@@ -12,7 +20,7 @@
 </ul>
 
 <!-- Tech Stack Section -->
-<h2>💻 Tech Stack:</h2>
+<h2 align="center"> 🛠️ Languages | Frameworks | Tools 🛠️</h2>
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
@@ -34,19 +42,10 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
-
-
+</p>
 <br>
-
 <!-- GitHub Stats Section -->
-<h2>📈 GitHub Stats:</h2>
+<h2 align="center">📈 GitHub Stats 📈</h2>
 <!-- Top Languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxsh2&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jxsh2&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jxsh2&theme=calm_pink&hide_border=false" alt="GitHub Streak" />
-  <br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxsh2&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
-</div>
