@@ -12,7 +12,7 @@
 </ul>
 
 <!-- Tech Stack Section -->
-<<h2>💻 Tech Stack:</h2>
+<h2>💻 Tech Stack:</h2>
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
@@ -41,4 +41,12 @@
 <!-- GitHub Stats Section -->
 <h2>📈 GitHub Stats:</h2>
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxsh2&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxsh2&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=jxsh2&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jxsh2&theme=calm_pink&hide_border=false" alt="GitHub Streak" />
+  <br><br>
+
+</div>
