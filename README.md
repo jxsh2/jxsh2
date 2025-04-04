@@ -50,7 +50,9 @@
 <!-- GitHub Stats Section -->
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <!-- Top Languages -->
-<h3> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxsh2&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<h3 align="center"> 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jxsh2&theme=react&hide_border=false" alt="STats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jxsh2&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages" /> <span></span>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxsh2&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </h3>
-
