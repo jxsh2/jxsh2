@@ -54,5 +54,5 @@
   <img width=390 src="https://nirzak-streak-stats.vercel.app/?user=jxsh2&theme=react&hide_border=false" alt="STats" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=jxsh2&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages" /> <span></span>
   <br>
-  <img width=325   src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxsh2&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxsh2&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </h3>
