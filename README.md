@@ -10,7 +10,7 @@
 
 <div>
   
-- 🎓 *Computer Science Graduate* | 💻*Web Developer* | 🎬*Video Editor* | 🎮*Gamer*
+- 🎓 *Computer Science Graduate*    |    💻*Web Developer*    |    🎬*Video Editor*    |    🎮*Gamer*
 
 - 🚀 I'm currently learning **full stack development**, as well as exploring **machine learning** and **deep learning**
   
